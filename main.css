@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    display: block;
+    text-align: center;
+    margin-top: 400px;
+}
+
+.container {
+    position: relative;
+    display: block;
+    text-align: center;
+}
+
+#btns {
+    margin: 8px;
+    display: none;
+}
